@@ -1,0 +1,26 @@
+/*
+ Theme Name:   Twenty Fifteen Child Theme
+ Description:  A child theme of the Twenty Fifteen default WordPress theme
+ Author:       Roni Allen
+ Template:     twentyfifteen
+ Version:      1.0.0
+*/
+
+body {background-image:url(sunset.jpg);
+	  background-size:cover;
+	  background-repeat: no-repeat;
+}
+
+.entry-header {
+   padding: 0 5%;
+}
+.entry-title, .widecolumn h2 {
+   margin-bottom: 0.5em;
+}
+.entry-content, .entry-summary {
+   padding: 0 5% 10%;
+}
+
+.post-thumbnail {
+    margin-bottom: 2.9474em;
+    padding-top: 3em;
